@@ -85,8 +85,6 @@ Performance of different pricing strategies in the simulation environment in ter
 
 The budget prediction model (XGBoost) was evaluated using $R^2$ Score and Mean Absolute Error (MAE):
 
-<img width="343" height="55" alt="image" src="https://github.com/user-attachments/assets/8bbb223d-d673-4fae-9765-f6a3e4eb1678" />
-
 9.Limitations
 
 Public datasets may have limitations in accuracy and completeness and reinforcement learning is based on a simulated market environment.
