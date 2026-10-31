@@ -83,7 +83,13 @@ Performance of different pricing strategies in the simulation environment in ter
 
 8.Model Performance Evaluation
 
-The budget prediction model (XGBoost) was evaluated using $R^2$ Score and Mean Absolute Error (MAE):
+### Model Performance Evaluation
+
+| Metric | Result |
+|---|---:|
+| **R² Score** | **0.9826** |
+| **Mean Absolute Error (MAE)** | **984.23** |
+| **Root Mean Squared Error (RMSE)** | **1,369.64** |
 
 9.Limitations
 
