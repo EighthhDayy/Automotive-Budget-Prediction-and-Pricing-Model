@@ -83,8 +83,6 @@ Performance of different pricing strategies in the simulation environment in ter
 
 8.Model Performance Evaluation
 
-### Model Performance Evaluation
-
 | Metric | Result |
 |---|---:|
 | **R² Score** | **0.9826** |
