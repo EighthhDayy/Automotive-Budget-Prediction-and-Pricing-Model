@@ -1,0 +1,17 @@
+{
+  "r2": 0.98263,
+  "mae": 984.227,
+  "rmse": 1369.642,
+  "train_rows": 400,
+  "test_rows": 100,
+  "seed": 42,
+  "target": "Car Purchase Amount",
+  "features": [
+    "Age",
+    "Annual Salary",
+    "Net Worth",
+    "Credit Card Debt"
+  ],
+  "dataset_source": "data/Car_Purchasing_Data.csv",
+  "generated_utc": "2026-10-31T09:00:05.924597+00:00"
+}

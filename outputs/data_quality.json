@@ -1,0 +1,18 @@
+{
+  "input_rows": 500,
+  "duplicate_rows": 0,
+  "invalid_numeric_Age": 0,
+  "invalid_numeric_Annual Salary": 0,
+  "invalid_numeric_Net Worth": 0,
+  "invalid_numeric_Credit Card Debt": 0,
+  "invalid_numeric_Car Purchase Amount": 0,
+  "missing_features": {
+    "Age": 0,
+    "Annual Salary": 0,
+    "Net Worth": 0,
+    "Credit Card Debt": 0
+  },
+  "rejected_rows": 0,
+  "valid_rows": 500,
+  "target_missing_or_invalid": 0
+}
